@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif))]
+
 <h1 align="center">Hi 👋, I'm Ayush Agarwala</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
